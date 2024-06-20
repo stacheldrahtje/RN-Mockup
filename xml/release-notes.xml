@@ -21,8 +21,7 @@
   <abstract>
    <para>
     &thisflavor; is a free and Linux-based operating system for your PC, Laptop
-    or Server. You can surf the Web, manage your e-mails and photos, do office
-    work, play videos or music and have a lot of fun!
+    or Server. It is suited for home users, Linux Enthousiasts, developers and administrators alike.
    </para>
   </abstract>
   <dm:docmanager xmlns:dm="urn:x-suse:ns:docmanager">
@@ -55,7 +54,7 @@
  <para> If you upgrade from an older version to this &thisflavor; release, see previous release
   notes listed here: <link xlink:href="https://en.opensuse.org/openSUSE:Release_Notes" />. </para>
  <para>
-  <phrase condition="beta">This public beta test is part of the &opensuse;
+  <phrase condition="beta">This beta test is part of the &opensuse;
    project.</phrase> Information about the project is available at <link
    xlink:href="https://www.opensuse.org" />. </para>
  <para condition="beta;pre"> Report all bugs you encounter using this prerelease of &thisflavor;
