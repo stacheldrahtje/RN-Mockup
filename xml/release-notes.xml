@@ -75,6 +75,13 @@
     xlink:href="https://doc.opensuse.org/documentation/leap/startup/html/book-startup/part-basics.html" />
    .
   </para>
+
+    <sect2 xml:id="installation-agama">
+  <title>Agama</title> 
+  <para>Leap 16.0 will use the Agama installer. Agama is a service-based installer and developed by the YaST team. 
+  This happened to address the limitations of YaST and also as an installer for new projects, like those 
+  based on SUSE Linux Framework One.</para> 
+  </sect2>
   <!-- <para>
    Make sure to also review <xref linkend="sec.driver"/>.
   </para> -->
