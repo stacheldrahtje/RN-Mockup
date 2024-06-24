@@ -179,13 +179,6 @@
      </para>
     </listitem>
    </itemizedlist>
-   <para> When using this system role, by default, the system will perform a daily update and reboot
-    between 03:30 am and 05:00 am. Both of these actions are systemd-based and if necessary can be
-    disabled using <command>systemctl</command>: </para>
-   <screen>systemctl disable --now transactional-update.timer rebootmgr.service</screen>
-   <para> For more information about transactional updates, see the &kubic; blog posts <link
-     xlink:href="https://kubic.opensuse.org/blog/2018-04-04-transactionalupdates/" /> and <link
-     xlink:href="https://kubic.opensuse.org/blog/2018-04-20-transactionalupdates2/" />. </para>
   </sect2>
 
   <sect2 xml:id="installation-small-disk">
