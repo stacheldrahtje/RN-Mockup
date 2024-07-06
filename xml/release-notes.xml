@@ -42,9 +42,9 @@
  <para condition="pre;maintained"> The release notes are under constant development. To find out
   about the latest updates, see the online version at <link
    xlink:href="https://doc.opensuse.org/release-notes" />. The English release notes are updated
-  whenever need arises. Translated language versions can temporarily be incomplete. </para>
+  when needed. Translated language versions can temporarily be incomplete. </para>
  <para condition="unmaintained">
-  The end of the maintenance period for &thisversion; is now reached. To keep
+  The end of the maintenance period for &thisversion; is reached. To keep
   your systems up-to-date and secure, upgrade to a current &opensuse; version.
   Before starting the upgrade, make sure that all maintenance updates for
   &thisversion; are applied.
@@ -55,7 +55,7 @@
  <para> If you upgrade from an older version to this &thisflavor; release, see previous release
   notes listed here: <link xlink:href="https://en.opensuse.org/openSUSE:Release_Notes" />. </para>
  <para>
-  <phrase condition="beta">This public beta test is part of the &opensuse;
+  <phrase condition="beta">This beta test is part of the &opensuse;
    project.</phrase> Information about the project is available at <link
    xlink:href="https://www.opensuse.org" />. </para>
  <para condition="beta;pre"> Report all bugs you encounter using this prerelease of &thisflavor;
